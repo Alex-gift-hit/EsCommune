@@ -21,7 +21,9 @@ Command on Windows
 
     conda install ffmpeg=7.1.0 -c conda-forge
 
-    CMD中使用where命令查看具体的位置。PowerShell中的where.exe命令查看具体位置。
+CMD中使用where命令查看具体的位置。PowerShell中使用where.exe命令查看具体位置。
+
+.. code-block:: console
 
     (lerobot) F:\Git-Hub\lerobot>where ffmpeg
     G:\ProgramFile\Anaconda2506\envs\lerobot\Library\bin\ffmpeg.exe
@@ -30,9 +32,11 @@ Command on Windows
 2. Install LeRobot
 ---------------
 强烈建议从源码处安装lerobot,可以自己改代码。
+
 毕竟是开源项目，里面很多bug，有时候自己发现了就可以改，例如windows下的openCV backend选择问题。
 
 .. code-block::
+
     git clone https://github.com/huggingface/lerobot.git
     cd lerobot
 
