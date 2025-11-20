@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to EsCommune's documentation!
+===================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+**电子羊公社(EsCommune)** 是一个关注AI与机器人的具身智能社区。定期分享前言的研究，商业资讯。进行知识普及与发布技术教程。
 
-Read the tutorial here:
+B站官方 `电子羊公社 <https://space.bilibili.com/309967369>`_
 
-https://docs.readthedocs.io/en/stable/tutorial/
