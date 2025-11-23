@@ -4,6 +4,7 @@
 
 开源项目地址
 ==========
+💌 B站视频 `两次微调LLM获得VLA <https://www.bilibili.com/video/BV1pa4bzMEQx/>`_
 
 SayCan https://say-can.github.io/
 
