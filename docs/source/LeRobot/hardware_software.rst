@@ -68,7 +68,7 @@ Ref
 
 .. external hyperlinks
 .. _So101: https://github.com/TheRobotStudio/SO-ARM100/
-.. _EsCommune: https://e.tb.cn/h.Sxu8m1bKJkhBOwj?tk=SvFQfnzkW8w
+.. _EsCommune: https://e.tb.cn/h.Sxu8m1bKJkhBOwj
 
 .. show the _So101 ref
 .. target-notes::
