@@ -9,9 +9,9 @@ Leader:     飞特电机 ``*`` 6(已包含紧固螺丝)，微雪串行舵机控�
 
 Follower:   飞特电机 ``*`` 6(已包含紧固螺丝)，微雪串行舵机控制板 ``*`` 1, 5V4A电源供电舵机 ``*`` 1，数据线 ``*`` 1，桌夹 ``*`` 2。 So101_
 
-从臂腕部640*480 USB Cam ``*`` 1 + 腕部支架打印件。
+从臂腕部640*480 USB Cam ``*`` 1 + 腕部支架打印件。 EsCommune_
 
-环境640*480 USB Cam ``*`` 1 + 支撑架。
+环境640*480 USB Cam ``*`` 1 + 支撑架。 EsCommune_
 
 原始的ACT是双臂4摄像头。LeRobot单臂2摄像头就行。
 
@@ -68,6 +68,7 @@ Ref
 
 .. external hyperlinks
 .. _So101: https://github.com/TheRobotStudio/SO-ARM100/
+.. _EsCommune: https://e.tb.cn/h.Sxu8m1bKJkhBOwj?tk=SvFQfnzkW8w
 
 .. show the _So101 ref
 .. target-notes::
