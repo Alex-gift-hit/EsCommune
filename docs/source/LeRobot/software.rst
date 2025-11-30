@@ -1,0 +1,38 @@
+.. Copyright 2025 Escommune, All right reserved.
+
+*********
+Software
+*********
+
+Anaconda
+========
+
+Anaconda 官网 https://www.anaconda.com/
+
+Anaconda 是python的虚拟环境管理工具。
+
+目前有两个版本, 主要功能无任何差异。
+    1. Anaconda 包含图形化程序 内存要求大 5G， 笔记本台式机。
+    2. Miniconda 不包含图形化程序 内存要求小与 1G。通常在小型的硬件上安装，如 ``Nvidia jetson``，linux系统。
+
+注册后，在官网的 :guilabel:`Free Download`下载即可。两者安装过程并无差别。
+
+Pycharm
+=======
+
+Pycharm 官网 https://www.jetbrains.com/pycharm/
+
+Pycharm 是一个免费的Python的集成开发环境(Integrated Development Environment)。可以与Anaconda配合使用。
+
+直接安装就好。
+
+Git
+===
+
+https://git-scm.com/
+
+
+
+
+
+
