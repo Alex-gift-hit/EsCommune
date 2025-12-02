@@ -20,9 +20,11 @@ Environment Setup
 .. note::
     Windows安装ffmpeg可能会使虚拟环境受到破坏，如果出现问题，例如无法使用pip. 可以试着更低的版本。
 
-	.. code-block:: console
 
-		conda install ffmpeg=7.1.0 -c conda-forge --no-deps
+.. code-block:: console
+
+	conda install ffmpeg=7.1.0 -c conda-forge --no-deps
+		
 
 CMD中使用where命令查看具体的位置。PowerShell中使用where.exe命令查看具体位置。
 

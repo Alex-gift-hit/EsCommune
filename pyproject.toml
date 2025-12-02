@@ -1,8 +1,25 @@
 [build-system]
-requires = ["flit_core >=3.2,<4"]
-build-backend = "flit_core.buildapi"
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
-dynamic = ["version", "description"]
+name = "escommune_pkg"
+version = "25.12.02"
+license = {text = "Apache-2.0"}
+description = "EsCommune Opensource docs"
+readme = "README.rst"
+requires-python = ">=3.10"
+authors = [{name = "alex"}]
+
+dependencies = [
+    "sphinx==7.1.2",
+    "sphinx-rtd-theme==1.3.0rc1",
+    "sphinxemoji==0.3.1"
+]
+
+[project.optional-dependencies]
+scipy = ["scipy"]
+
+[project.urls]
+homepage = "https://escommune.readthedocs.io/"
+
