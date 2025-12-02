@@ -2,6 +2,8 @@
 Hardware
 ********
 
+💌 B站官方 `LeRobot教程简介 开源Bom清单 具身智能机械臂 <https://www.bilibili.com/video/BV1muUPBkE33/>`_
+
 So-101 硬件BOM
 =============
 

@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'ElectronicSheepCommune'
-copyright = '2025, EsC'
+project = ' EsCommune'
+copyright = '2025, EsCommune'
 author = ' JiaMin'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.5'
+version = '2025.12.02'
 
 # -- General configuration
 

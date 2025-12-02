@@ -2,6 +2,7 @@
 Intro modern python package
 ***************************
 
+💌 B站官方 `Python现代包架构 LeRobot环境配置与安装(win) <https://www.bilibili.com/video/BV1rWSyBEEBr/>`_
 
 Module
 ======
