@@ -4,6 +4,9 @@
 LeRobot 教程
 ***********
 
+💌 B站官方合集 `LeRobot教程 <https://space.bilibili.com/309967369/lists/6818886>`_
+
+
 .. toctree::
     :numbered:
 
@@ -15,7 +18,9 @@ LeRobot 教程
 
 .. note::
 
-   This project is under active development.
+    This project is under active development.
+
+    LeRobot 官方开源库 https://github.com/huggingface/lerobot
 
 https://huggingface.co/docs/lerobot/so101
 https://github.com/TheRobotStudio/SO-ARM100
