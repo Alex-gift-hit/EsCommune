@@ -19,8 +19,8 @@ console编写代码关闭后会变量会消失。把代码放到文件中保存�
     d = 4; e = 5;
 
     def minus(x: int, y: int) -> int :
-    print(f"{x} - {y} = {x -y}")
-    return x-y
+        print(f"{x} - {y} = {x -y}")
+        return x-y
 
     f = minus(a, b)
     list_1 = [0, 1, 2, 3, 4]
@@ -28,12 +28,12 @@ console编写代码关闭后会变量会消失。把代码放到文件中保存�
 
 
 
-可以通过 import 来导入模块。模块导入时会自动执行。
+可以通过 import [7]_ 来导入模块。模块导入时会自动执行。
 
 >>> import module_test
 >>> module_test.minus(2, 1)
 
-python会在 sys.path 的路径中寻找模块，以及包。
+python会在 sys.path [7]_ 的路径中寻找模块，以及包。
 
 >>> import sys
 >>> print(sys.path)
@@ -141,3 +141,4 @@ Ref
 .. [4] https://pip.pypa.org.cn/en/stable/reference/build-system/pyproject-toml/
 .. [5] python https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
 .. [6] https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+.. [7] Python 3.14 import系统 https://docs.python.org/zh-cn/3.14/reference/import.html#
