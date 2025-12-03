@@ -1,0 +1,31 @@
+******************
+PI0-0.6 VLA Series
+******************
+
+PI官网 https://www.physicalintelligence.company/ 近期融资6亿美元，约
+
+PI开源仓库 https://github.com/Physical-Intelligence/openpi
+
+Pi0与传统VLA(RT-2, OpenVLA)不同的是，Pi0加入了生成模型技术。
+Pi0.5数据多样化。
+Pi0.6加入了强化学习。
+
+这篇工作很核心。
+
+`Yaron Lipman, Ricky TQ Chen, Heli Ben-Hamu, Maximilian Nickel, and Matt Le. Flow matching for generative
+modeling. arXiv preprint arXiv:2210.02747, 2022. <https://arxiv.org/abs/2210.02747>`_
+
+生成模型资料
+
+1. cs236 https://deepgenerativemodels.github.io/
+
+
+2. Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon. The Principles of Diffusion Models.
+https://arxiv.org/abs/2510.21890
+
+
+
+
+
+
+

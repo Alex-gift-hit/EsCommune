@@ -12,7 +12,15 @@ RT-1 https://robotics-transformer1.github.io/
 
 OpenVLA https://github.com/openvla/openvla
 
+Pi0与传统VLA(RT-2, OpenVLA)不同的是，Pi0加入了生成模型技术。
+Pi0.5数据多样化。
+Pi0.6加入了强化学习。
+
 OpnePi(Pi0, Pi0.5)  https://github.com/Physical-Intelligence/openpi
+
+PI开源仓库 https://github.com/Physical-Intelligence/openpi
+
+
 
 Ref
 ===
