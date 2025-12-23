@@ -19,9 +19,13 @@ modeling. arXiv preprint arXiv:2210.02747, 2022. <https://arxiv.org/abs/2210.027
 
 1. cs236 https://deepgenerativemodels.github.io/
 
+2. stanford cs236 2023 https://www.youtube.com/watch?v=MAGBUh77bNg&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8&index=5
 
-2. Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon. The Principles of Diffusion Models.
-https://arxiv.org/abs/2510.21890
+3. Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon. The Principles of Diffusion Models.
+https://the-principles-of-diffusion-models.github.io/
+
+4. 《动手学习深度学习》 李沐 https://zh-v2.d2l.ai/chapter_preface/index.html
+
 
 
 
